@@ -18,5 +18,8 @@
   "booleans": [
     { "true": "true"},
     { "false": "false"}
+  ],
+  "token": [
+    { "token": "test123"}
   ]
 }
